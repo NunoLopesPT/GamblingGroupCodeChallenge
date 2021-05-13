@@ -2,7 +2,8 @@ FROM php:8-fpm
 
 # Install developer dependencies
 RUN apt-get update -yqq
-RUN apt-get install -y git
+RUN apt-get install -y libzip-dev
+RUN docker-php-ext-install zip
 
 WORKDIR /app
 
@@ -11,4 +12,4 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 
 COPY ./composer.json composer.json
 
-RUN composer install --no-interaction --prefer-dist --no-suggest
+RUN composer install --no-interaction --prefer-dist
