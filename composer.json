@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "GamblingGroup\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "GamblingGroup\\Tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}

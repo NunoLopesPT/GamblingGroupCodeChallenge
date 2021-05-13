@@ -1,0 +1,8 @@
+#This file is inside a folder named 'dock' at the root of my laravel project
+version: "3.1"
+services:
+  php:
+    build: .
+    volumes:
+      - ./:/app:delegated
+

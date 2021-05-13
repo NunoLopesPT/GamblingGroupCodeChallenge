@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca90c8a4-8851-4e58-ad06-5170a79f53e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="docker_php:latest">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1sJ18hZNRRQ6L9OdBgTurj5Gz3b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/Unit/ValueObjects" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Unit/ValueObjects" />
+      <recent name="$PROJECT_DIR$/src/ValueObjects" />
+      <recent name="$PROJECT_DIR$/src/ValueObject" />
+      <recent name="$PROJECT_DIR$/docker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker/Dockerfile">
+    <configuration name="CoordinatesTest.testCalculateDistancesAtSamePoint" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="GamblingGroup\Tests\ValueObjects\CoordinatesTest" file="$PROJECT_DIR$/tests/Unit/ValueObjects/CoordinatesTest.php" method="testCalculateDistancesAtSamePoint" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CoordinatesTest.testCalculateDistancesFromPortoToDublin" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="GamblingGroup\Tests\ValueObjects\CoordinatesTest" file="$PROJECT_DIR$/tests/Unit/ValueObjects/CoordinatesTest.php" method="testCalculateDistancesFromPortoToDublin" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CoordinatesTest.testCanRetrieveProperties" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="GamblingGroup\Tests\ValueObjects\CoordinatesTest" file="$PROJECT_DIR$/tests/Unit/ValueObjects/CoordinatesTest.php" method="testCanRetrieveProperties" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="docker/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker/Dockerfile" />
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHPUnit.CoordinatesTest.testCalculateDistancesFromPortoToDublin" />
+        <item itemvalue="PHPUnit.CoordinatesTest.testCalculateDistancesAtSamePoint" />
+        <item itemvalue="PHPUnit.CoordinatesTest.testCanRetrieveProperties" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca90c8a4-8851-4e58-ad06-5170a79f53e8" name="Default Changelist" comment="" />
+      <created>1620575721071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620575721071</updated>
+      <workItem from="1620575722268" duration="6070000" />
+      <workItem from="1620931687016" duration="7015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="153" width="1066" height="682" key="#CLI_Interpreters" timestamp="1620580098848">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="168" y="153" width="1066" height="682" key="#CLI_Interpreters/0.25.1680.941@0.25.1680.941" timestamp="1620580098848" />
+    <state x="595" y="146" key="#PHP" timestamp="1620932428946">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="595" y="146" key="#PHP/0.25.1680.941@0.25.1680.941" timestamp="1620932428946" />
+    <state x="304" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620580099528">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="304" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.941@0.25.1680.941" timestamp="1620580099528" />
+    <state x="571" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620575763119">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="571" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.941@0.25.1680.941" timestamp="1620575763119" />
+    <state x="650" y="258" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1620932266523">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="650" y="258" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1680.941@0.25.1680.941" timestamp="1620932266523" />
+    <state width="1638" height="309" key="GridCell.Tab.0.bottom" timestamp="1620937153827">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.bottom/-513.-1667.3008.1667/0.25.1680.941@0.25.1680.941" timestamp="1620654193449" />
+    <state width="1638" height="309" key="GridCell.Tab.0.bottom/0.25.1680.941@0.25.1680.941" timestamp="1620937153827" />
+    <state width="1638" height="309" key="GridCell.Tab.0.center" timestamp="1620937153827">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.center/-513.-1667.3008.1667/0.25.1680.941@0.25.1680.941" timestamp="1620654193449" />
+    <state width="1638" height="309" key="GridCell.Tab.0.center/0.25.1680.941@0.25.1680.941" timestamp="1620937153827" />
+    <state width="1638" height="309" key="GridCell.Tab.0.left" timestamp="1620937153827">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.left/-513.-1667.3008.1667/0.25.1680.941@0.25.1680.941" timestamp="1620654193448" />
+    <state width="1638" height="309" key="GridCell.Tab.0.left/0.25.1680.941@0.25.1680.941" timestamp="1620937153827" />
+    <state width="1638" height="309" key="GridCell.Tab.0.right" timestamp="1620937153827">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.right/-513.-1667.3008.1667/0.25.1680.941@0.25.1680.941" timestamp="1620654193449" />
+    <state width="1638" height="309" key="GridCell.Tab.0.right/0.25.1680.941@0.25.1680.941" timestamp="1620937153827" />
+    <state width="1638" height="309" key="GridCell.Tab.1.bottom" timestamp="1620937153827">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1638" height="309" key="GridCell.Tab.1.bottom/0.25.1680.941@0.25.1680.941" timestamp="1620937153827" />
+    <state width="1638" height="309" key="GridCell.Tab.1.center" timestamp="1620937153826">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1638" height="309" key="GridCell.Tab.1.center/0.25.1680.941@0.25.1680.941" timestamp="1620937153826" />
+    <state width="1638" height="309" key="GridCell.Tab.1.left" timestamp="1620937153825">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1638" height="309" key="GridCell.Tab.1.left/0.25.1680.941@0.25.1680.941" timestamp="1620937153825" />
+    <state width="1638" height="309" key="GridCell.Tab.1.right" timestamp="1620937153826">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1638" height="309" key="GridCell.Tab.1.right/0.25.1680.941@0.25.1680.941" timestamp="1620937153826" />
+    <state x="660" y="423" key="NewPhpFileDialog" timestamp="1620932460957">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="660" y="423" key="NewPhpFileDialog/0.25.1680.941@0.25.1680.941" timestamp="1620932460957" />
+    <state x="349" y="131" key="SettingsEditor" timestamp="1620577114417">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="349" y="131" key="SettingsEditor/0.25.1680.941@0.25.1680.941" timestamp="1620577114417" />
+    <state x="0" y="25" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1620580096412">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="0" y="25" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.25.1680.941@0.25.1680.941" timestamp="1620580096412" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1620934500637">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.25.1680.941@0.25.1680.941" timestamp="1620934500637" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GamblingGroupChallenge@AffiliateCollectionTest_testAffiliatesAreAddedAndSorted.xml" NAME="AffiliateCollectionTest.testAffiliatesAreAddedAndSorted Coverage Results" MODIFIED="1620932802290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
