@@ -10,7 +10,6 @@ WORKDIR /app
 # install composer
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 
-COPY ./composer.json composer.json
-COPY ./composer.lock composer.lock
+COPY ./ /app
 
 RUN composer install --no-interaction --prefer-dist
