@@ -10,3 +10,8 @@ The GPS coordinates for our Dublin office are 53.3340285, -6.2535495.
 You can find the affiliate list in this repository called affiliates.txt.
 
 Please don’t forget, your code should be production ready, clean and tested!
+
+How to run:
+- docker-compose build
+- docker-compose exec php bash
+- php index.php
