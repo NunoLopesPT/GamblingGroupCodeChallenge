@@ -1,4 +1,6 @@
 {
+  "name": "nuno-lopes/code_challenge",
+  "description": "Gambling Group",
   "autoload": {
     "psr-4": {
       "GamblingGroup\\": "src/"
