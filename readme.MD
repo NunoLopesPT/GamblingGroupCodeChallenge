@@ -13,5 +13,6 @@ Please don’t forget, your code should be production ready, clean and tested!
 
 How to run:
 - docker-compose build
+- docker-compose up -d
 - docker-compose exec php bash
 - php index.php
